@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Although I didn't find the web development fun in the past, my idea changed a lot as I started learning.**
 
-- Here my cv : https://smallpdf.com/shared#st=1cd41165-f307-4f9a-8956-639c7e3d9c19&fn=Berk_Bostanc%C4%B1o%C4%9Flu_CV.pdf&ct=1616004387732&tl=share-document&rf=link
+- :alien: Here my cv : https://smallpdf.com/shared#st=1cd41165-f307-4f9a-8956-639c7e3d9c19&fn=Berk_Bostanc%C4%B1o%C4%9Flu_CV.pdf&ct=1616004387732&tl=share-document&rf=link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
