@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">I'm third grade software engineer student at Yasar University. Last 3 years I learned different software languages and basics of software engineer skills. Until this time I usually used Java in my projects. Currently, I am developing myself in the areas of web and mobile app development next to my school. My career objective is being a confident and successful software engineer.</h3>
+<h3 align="center">I'm third grade software engineer student at Yasar University. Last 3 years I learned different software languages and basics of software engineer skills. Until this time I usually used Java in my projects. Currently, I am developing myself in the areas of web and mobile app development. My career objective is being a confident and successful software engineer.</h3>
 
 - 🌱 I’m currently learning **Web and mobile app development**
 
